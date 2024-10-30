@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/daxue.svg</file>
+        <file>res/dayu.svg</file>
+        <file>res/dongyv.svg</file>
+        <file>res/duoyun.svg</file>
+        <file>res/feng.svg</file>
+        <file>res/fengxiang.svg</file>
+        <file>res/kongqi.svg</file>
+        <file>res/leidian.svg</file>
+        <file>res/lieri.svg</file>
+        <file>res/nongyun.svg</file>
+        <file>res/PM2.5.svg</file>
+        <file>res/search.svg</file>
+        <file>res/sheshidu.svg</file>
+        <file>res/shudu.svg</file>
+        <file>res/tianqi.svg</file>
+        <file>res/wanshang.svg</file>
+        <file>res/weather_icon_sun.svg</file>
+        <file>res/wendu.svg</file>
+        <file>res/wuqi.svg</file>
+        <file>res/xiaoyv.svg</file>
+        <file>res/yun.svg</file>
+        <file>res/yvjiaxue.svg</file>
+        <file>res/zhongxue.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/大雪.svg</file>
+        <file>res/大雨.svg</file>
+        <file>res/冻雨.svg</file>
+        <file>res/多云.svg</file>
+        <file>res/风.svg</file>
+        <file>res/风向.svg</file>
+        <file>res/雷电.svg</file>
+        <file>res/烈日.svg</file>
+        <file>res/浓云.svg</file>
+        <file>res/摄氏度.svg</file>
+        <file>res/湿度 (1).svg</file>
+        <file>res/湿度.svg</file>
+        <file>res/天气 (1).svg</file>
+        <file>res/天气.svg</file>
+        <file>res/晚上.svg</file>
+        <file>res/温度.svg</file>
+        <file>res/雾气.svg</file>
+        <file>res/小雨.svg</file>
+        <file>res/雨夹雪.svg</file>
+        <file>res/云.svg</file>
+        <file>res/中雪.svg</file>
+        <file>C:/Users/Administrator/Desktop/图标库/PM2.5.svg</file>
+        <file>res/PM2.5.svg</file>
+    </qresource>
+</RCC>
